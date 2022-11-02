@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecommerce-react/static/css/main.3e05f8a6.css",
+    "main.js": "/ecommerce-react/static/js/main.37c38667.js",
+    "static/media/Shopping-Download-PNG.png": "/ecommerce-react/static/media/Shopping-Download-PNG.1359bb6c91935a609b31.png",
+    "static/media/kisspng-shopping-centre-family-stock-photography-shoping-5ac0346ed9b9b1.jpg": "/ecommerce-react/static/media/kisspng-shopping-centre-family-stock-photography-shoping-5ac0346ed9b9b1.2607679115225457748918.f8fcf118b74c27711d5e.jpg",
+    "static/media/1417.png": "/ecommerce-react/static/media/1417.8aa8c17c23e35cc4bd63.png",
+    "index.html": "/ecommerce-react/index.html",
+    "main.3e05f8a6.css.map": "/ecommerce-react/static/css/main.3e05f8a6.css.map",
+    "main.37c38667.js.map": "/ecommerce-react/static/js/main.37c38667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e05f8a6.css",
+    "static/js/main.37c38667.js"
+  ]
+}
